@@ -1,0 +1,9 @@
+{
+  "short_name": "2048",
+  "name": "2048 Game",
+  "description": "A fun and addictive 2048 game!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8ef",
+  "theme_color": "#776e65"
+}
